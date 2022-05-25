@@ -2,7 +2,7 @@
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://github.com/fustsiju"><i>Fulvio Stefanine</i></a></h1>
   <p align="center">Cursando Bacharelado em Ciência da Computação no <a href="https://portal.pas.ifsuldeminas.edu.br"><i>IFSULDEMINAS</i></a>
   <br>
-  <p align="center">Atualmente no 3º Periodo, buscando estágio home office.</h2>
+  <p align="center">Atualmente no 3º Periodo, buscando estágio front-end home office.</h2>
 </div>
 
 
