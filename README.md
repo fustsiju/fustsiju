@@ -45,4 +45,6 @@
   <p>Feito com :heart: e JavaScript.</p>
   <p>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
-<a align="right"><img src="https://img.shields.io/github/commit-activity/m/Fustsiju/CSS-Battle?style=for-the-badge" target="_blank"></a>
+<div align="right">
+<a ><img src="https://img.shields.io/github/commit-activity/m/Fustsiju/CSS-Battle?style=for-the-badge" target="_blank"></a>
+</div>
