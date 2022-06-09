@@ -43,6 +43,6 @@
 
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-  <a align="right"><img src="https://img.shields.io/github/commit-activity/m/Fustsiju/CSS-Battle?style=for-the-badge" target="_blank"></a>
+  <p>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
+<a align="right"><img src="https://img.shields.io/github/commit-activity/m/Fustsiju/CSS-Battle?style=for-the-badge" target="_blank"></a>
