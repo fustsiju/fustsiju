@@ -33,6 +33,7 @@
   <a href="https://www.linkedin.com/in/fustsiju/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:fulviost@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://cssbattle.dev/player/fustsiju"><img src="https://img.shields.io/badge/-CSS%20Battle-yellow?style=for-the-badge&logo" target="_blank"></a>
+   <a><img src="https://img.shields.io/github/commit-activity/m/Fustsiju/CSS-Battle?style=for-the-badge" target="_blank"></a>
 </div>
 
 <div align="center">
