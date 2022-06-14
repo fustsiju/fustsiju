@@ -1,8 +1,8 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://github.com/fustsiju"><i>Fulvio Stefanine</i></a></h1>
-  <p align="center">Cursando Bacharelado em Ciência da Computação no <a href="https://portal.pas.ifsuldeminas.edu.br"><i>IFSULDEMINAS</i></a>
+  <h1 align="center">Welcome, i am <a href="https://github.com/fustsiju"><i>Fulvio Stefanine</i></a></h1>
+  <p align="center">Studying Bachelor's Degree in Computer Science at  <a href="https://portal.pas.ifsuldeminas.edu.br"><i>IFSULDEMINAS</i></a>
   <br>
-  <p align="center">Atualmente no 3º Periodo, buscando estágio front-end home office.</h2>
+  <p align="center">Currently in the 3rd period, looking for a front-end home office internship.</h2>
 </div>
 
 
@@ -42,8 +42,8 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  <p>Done with :heart: and JavaScript.</p>
+  <p>Credits: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
 <div align="right">
 <a ><img src="https://img.shields.io/github/commit-activity/m/Fustsiju/CSS-Battle?style=for-the-badge" target="_blank"></a>
