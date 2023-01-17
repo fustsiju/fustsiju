@@ -20,7 +20,12 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-<br>
+<div align="center">
+  <a href="https://github.com/fustsiju">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fustsiju&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fustsiju&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div><br>
 
 <div align="center">
  
@@ -39,7 +44,4 @@
 <div align="center">
   <p>Done with :heart: and JavaScript.</p>
   <p>Credits: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
-<div align="right">
-<a ><img src="https://img.shields.io/github/commit-activity/m/Fustsiju/CSS-Battle?style=for-the-badge" target="_blank"></a>
 </div>
