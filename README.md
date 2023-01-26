@@ -6,9 +6,6 @@
 </div>
 
 
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
 
 
 
