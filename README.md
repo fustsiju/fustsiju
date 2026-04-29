@@ -63,9 +63,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fustsiju&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fustsiju&theme=tokyonight&no-frame=true&column=7&margin-w=10&title=-Issues,-PullRequest,-Reviews" />
-</div>
+</p>
 
 <br>
 
