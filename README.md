@@ -6,7 +6,7 @@
 
 <div align="center">
   <p>
-    Cursando <b>Bacharelado em Ciência da Computação</b> no <a href="https://portal.pas.ifsuldeminas.edu.br"><b>IFSULDEMINAS — Campus Passos</b></a> (8º período)
+    /*Cursando <b>Bacharelado em Ciência da Computação</b> no <a href="https://portal.pas.ifsuldeminas.edu.br"><b>IFSULDEMINAS — Campus Passos</b></a> (8º período)*/
     <br>
     Desenvolvedor Full Stack · <code>SQL Server</code> e <code>ASP.NET / C#</code>
     <br>
