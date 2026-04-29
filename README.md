@@ -64,7 +64,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fustsiju&theme=tokyonight&no-frame=true&column=5&margin-w=10&title=-Issues,-PullRequest,-Reviews" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fustsiju&theme=tokyonight&no-frame=true&column=6&margin-w=10&title=-Issues,-PullRequest,-Reviews" />
 </p>
 
 <br>
