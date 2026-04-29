@@ -8,7 +8,7 @@
   <p>
     Cursando <b>Bacharelado em Ciência da Computação</b> no <a href="https://portal.pas.ifsuldeminas.edu.br"><b>IFSULDEMINAS — Campus Passos</b></a> (8º período)
     <br>
-    Estágio em desenvolvimento de software · <code>SQL Server</code> e <code>ASP.NET / C#</code>
+    Desenvolvedor Full Stack · <code>SQL Server</code> e <code>ASP.NET / C#</code>
     <br>
     Fundador da <a href="https://instagram.com/fustsystems"><b>FUST Intelligent Systems</b></a>
     <br>
