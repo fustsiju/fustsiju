@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://fustsiju.github.io/devfustsiju/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Fulvio+Stefanine;Bacharelado+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Backend+e+Trading+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Fulvio+Stefanine;Bacharelado+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
   </a>
 </div>
 
