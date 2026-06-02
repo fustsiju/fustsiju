@@ -10,7 +10,7 @@
     <br>
     Fundador da <a href="https://instagram.com/fustsystems"><b>FUST Intelligent Systems</b></a>
     <br>
-    Passos, MG — Brasil
+    Passos, MG - Brasil
   </p>
 </div>
 
