@@ -40,20 +40,13 @@
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-</div>
+<br>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fustsiju&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues,prs,contribs" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fustsiju&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fustsiju&theme=tokyonight&hide_border=true" />
 </div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fustsiju&theme=tokyonight&no-frame=true&column=6&margin-w=10&title=-Issues,-PullRequest,-Reviews" />
-</p>
 
 <br>
 
